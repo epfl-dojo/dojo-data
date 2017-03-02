@@ -1,1 +1,14 @@
-
+{
+  "links":[
+    {
+      "link_title":"Le dépôt GH",
+      "link_url":"https://github.com/epfl-dojo",
+      "useit":true
+    },
+    {
+      "link_title":"Le groupe Telegram",
+      "link_url":"https://t.me/joinchat/AJdVTD5H6UloRX9AaGg8RA",
+      "useit":false
+    }
+  ]
+}
