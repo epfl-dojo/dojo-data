@@ -1,0 +1,23 @@
+{
+  archives:
+  [
+    {
+      dojoid: 7
+      desc:
+        '''
+        Utilisation de github avec des cas concrets de fork et de pull request sur https://ponsfrilus.github.io/EPFLArrival/
+        Implementation de tests (karma, mocha, selenium, phantom) et du CI (Travis) sur le même projet.
+        '''
+      kick: Utilisation de github
+    }
+    {
+      dojoid: 8
+      desc:
+        '''
+        * démo d'InfluxDB et de Grafana
+        * travail sur le CI de http://gitlab.epfl : Installation d'un docker avec Nodejs afin de pouvoir lancer EPFLArrival
+        '''
+      kick: Démo
+    }
+  ]
+}
