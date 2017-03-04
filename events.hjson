@@ -21,7 +21,7 @@
           log:
             '''
             Github usage with concrete use case of Pull Request and forks on
-            the https://ponsfrilus.github.io/EPFLArrival/ project
+            the <a href="https://ponsfrilus.github.io/EPFLArrival/">EPFLArrival</a> project
             '''
         }
         {
