@@ -3,35 +3,40 @@
   // Events have two aims:
   //   1. Announce future events (kick, desc)
   //   2. Retrieve log of past events (log)
+  //
+  // By default, the room is MED11815 and the hours are
+  //   - 11:00 - 12:00 for trainee
+  //   - 13:00 - 14:00 for advanced
+  // These params can be redefined in dojo type object (room, hour)
 
   events:
   [
     {
       date: 2017-02-17
       dojoid: 7
-      room: default
       types:
       [
         {
           type: trainee
           desc: ""
-          hour: 10:00
-          kick: "Moar git"
-          room: BM0144
+          kick: "Moar Git"
           log:
             '''
-            Github usage with concrete use case of Pull Request and forks on
-            the <a href="https://ponsfrilus.github.io/EPFLArrival/">EPFLArrival</a> project
+            <a href="http://www.github.com">Github</a> usage with concrete use
+            case of <a href="https://help.github.com/articles/about-pull-requests/">Pull Request</a>
+            and <a href="https://help.github.com/articles/fork-a-repo/">forks</a> on
+            the <a href="https://ponsfrilus.github.io/EPFLArrival/">EPFLArrival</a>
+            project.
             '''
         }
         {
           type: advanced
           desc: ""
-          kick: "Tests use cases"
+          kick: "Tests use case"
           log:
             '''
             Implementation of tests (karma, mocha, selenium, phantom) and CI
-            (Travis) on https://ponsfrilus.github.io/EPFLArrival/ project
+            (Travis) on https://ponsfrilus.github.io/EPFLArrival/ project.
             '''
         }
       ]
@@ -39,15 +44,17 @@
     {
       date: 2017-02-24
       dojoid: 8
-      room: default
       types:
       [
         {
           type: trainee
           desc: ""
-          hour: 10:00
           kick: "Demo"
-          log: "InfluxDB and Grafana"
+          log:
+            '''
+            <a href="https://www.influxdata.com/">InfluxDB</a> and
+            <a href="http://grafana.org/">Grafana</a>
+            '''
         }
         {
           type: advanced
@@ -55,7 +62,7 @@
           kick: ""
           log:
             '''
-            Work on the continuous integration of http://gitlab.epfl
+            Work on the continuous integration of <a href="http://gitlab.epfl.ch">gitlab@EPFL</a>
             Docker installation with nodejs in order to run the EPFLArrival app
             '''
         }
@@ -64,7 +71,6 @@
     {
       date: 2017-03-03
       dojoid: 9
-      room: default
       types:
       [
         {
