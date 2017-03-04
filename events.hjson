@@ -1,4 +1,9 @@
 {
+
+  // Events have two aims:
+  //   1. Announce future events (kick, desc)
+  //   2. Retrieve log of past events (log)
+
   events:
   [
     {
@@ -14,6 +19,7 @@
             hour: 10:00
             kick: ""
             room: BM0144
+            log: ""
           }
         }
         {
@@ -21,6 +27,7 @@
           {
             desc: ""
             kick: ""
+            log: ""
           }
         }
       ]
@@ -37,6 +44,7 @@
             desc: ""
             hour: 10:00
             kick: ""
+            log: "Démo d'InfluxDB et de Grafana"
           }
         }
         {
@@ -44,6 +52,7 @@
           {
             desc: ""
             kick: ""
+            log: "Travail sur le CI de http://gitlab.epfl : Installation d'un docker avec Nodejs afin de pouvoir lancer EPFLArrival"
           }
         }
       ]
@@ -59,6 +68,7 @@
           {
             desc: ""
             kick: ""
+            log: ""
           }
         }
         {
@@ -66,6 +76,7 @@
           {
             desc: ""
             kick: ""
+            log: ""
           }
         }
       ]
