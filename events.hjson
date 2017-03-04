@@ -59,7 +59,7 @@
         {
           type: advanced
           desc: ""
-          kick: ""
+          kick: "Continuous integration"
           log:
             '''
             Work on the continuous integration of <a href="http://gitlab.epfl.ch">gitlab@EPFL</a>
@@ -76,7 +76,7 @@
         {
           type: trainee
           desc: ""
-          kick: "epfl-dojo website"
+          kick: "EPFL dojo website"
           log:
             '''
             Discovery of the <a href="http://quasar-framework.org/">Quasar Framework</a>, quick-start.
@@ -85,7 +85,7 @@
         {
           type: advanced
           desc: ""
-          kick: "epfl-dojo website"
+          kick: "EPFL dojo website"
           log:
             '''
             Skeleton of the epfl-dojo website/app with
