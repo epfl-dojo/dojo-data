@@ -16,15 +16,23 @@
           type: trainee
           desc: ""
           hour: 10:00
-          kick: ""
+          kick: "Moar git"
           room: BM0144
-          log: ""
+          log:
+            '''
+            Github usage with concrete use case of Pull Request and forks on
+            the https://ponsfrilus.github.io/EPFLArrival/ project
+            '''
         }
         {
           type: advanced
           desc: ""
-          kick: ""
-          log: ""
+          kick: "Tests use cases"
+          log:
+            '''
+            Implementation of tests (karma, mocha, selenium, phantom) and CI
+            (Travis) on https://ponsfrilus.github.io/EPFLArrival/ project
+            '''
         }
       ]
     }
@@ -38,14 +46,18 @@
           type: trainee
           desc: ""
           hour: 10:00
-          kick: ""
-          log: "Démo d'InfluxDB et de Grafana"
+          kick: "Demo"
+          log: "InfluxDB and Grafana"
         }
         {
           type: advanced
           desc: ""
           kick: ""
-          log: "Travail sur le CI de http://gitlab.epfl : Installation d'un docker avec Nodejs afin de pouvoir lancer EPFLArrival"
+          log:
+            '''
+            Work on the continuous integration of http://gitlab.epfl
+            Docker installation with nodejs in order to run the EPFLArrival app
+            '''
         }
       ]
     }
@@ -58,14 +70,14 @@
         {
           type: trainee
           desc: ""
-          kick: ""
-          log: ""
+          kick: "epfl-dojo website"
+          log: "Discovery of the quasar framework, quick-start"
         }
         {
           type: advanced
           desc: ""
-          kick: ""
-          log: ""
+          kick: "epfl-dojo website"
+          log: "Skeleton of the epfl-dojo website/app with quasar framework"
         }
       ]
     }
