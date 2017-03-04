@@ -1,35 +1,42 @@
 {
+
+  // A collection of links which are used in
+  // the mobile application and in the announcements
+  // email.
+  // Example:
+  //   <a href="{{ url }}" v-if="use_it">{{ title }}</a>
+
   links:
   [
     {
-      link_title: Le dépôt GH
-      link_url: https://github.com/epfl-dojo
+      title: Le dépôt GH
+      url: https://github.com/epfl-dojo
       use_it: true
     }
     {
-      link_title: Le groupe Telegram
-      link_url: https://t.me/joinchat/AJdVTD5H6UloRX9AaGg8RA
+      title: Le groupe Telegram
+      url: https://t.me/joinchat/AJdVTD5H6UloRX9AaGg8RA
       use_it: false
     }
     {
-      link_title: La salle MED11815
-      link_url: http://plan.epfl.ch/?room=MED11815
+      title: La salle MED11815
+      url: http://plan.epfl.ch/?room=MED11815
       use_it: true
     }
     {
-      link_title: Le lien CodeWars
-      link_url: http://www.codewars.com/r/gdKkKA
+      title: Le lien CodeWars
+      url: http://www.codewars.com/r/gdKkKA
       use_it: true
     }
     {
-      link_title: Le pot à idées Trello
-      link_url: https://trello.com/b/JRz6oOC3
+      title: Le pot à idées Trello
+      url: https://trello.com/b/JRz6oOC3
       use_it: true
     }
     {
-      link_title: Le doc meta-dojo
-      link_url: https://docs.google.com/a/epfl.ch/document/d/1KqDAsxf1zrUJCDAC4pTdEYCb2rYZFIrROi07mXbN9CE/edit?usp=sharing
-      use_it: true
+      title: Le doc meta-dojo
+      url: https://docs.google.com/a/epfl.ch/document/d/1KqDAsxf1zrUJCDAC4pTdEYCb2rYZFIrROi07mXbN9CE/edit?usp=sharing
+      use_it: false
     }
   ]
 }
