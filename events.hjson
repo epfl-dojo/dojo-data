@@ -36,7 +36,7 @@
           log:
             '''
             Implementation of tests (karma, mocha, selenium, phantom) and CI
-            (Travis) on https://ponsfrilus.github.io/EPFLArrival/ project.
+            (Travis) on <a href="https://ponsfrilus.github.io/EPFLArrival/">EPFLArrival</a> project.
             '''
         }
       ]
@@ -53,7 +53,7 @@
           log:
             '''
             <a href="https://www.influxdata.com/">InfluxDB</a> and
-            <a href="http://grafana.org/">Grafana</a>
+            <a href="http://grafana.org/">Grafana</a>.
             '''
         }
         {
@@ -63,7 +63,7 @@
           log:
             '''
             Work on the continuous integration of <a href="http://gitlab.epfl.ch">gitlab@EPFL</a>
-            Docker installation with nodejs in order to run the EPFLArrival app
+            Docker installation with nodejs in order to run the <a href="https://ponsfrilus.github.io/EPFLArrival/">EPFLArrival</a> app.
             '''
         }
       ]
@@ -77,13 +77,20 @@
           type: trainee
           desc: ""
           kick: "epfl-dojo website"
-          log: "Discovery of the quasar framework, quick-start"
+          log:
+            '''
+            Discovery of the <a href="http://quasar-framework.org/">Quasar Framework</a>, quick-start.
+            '''
         }
         {
           type: advanced
           desc: ""
           kick: "epfl-dojo website"
-          log: "Skeleton of the epfl-dojo website/app with quasar framework"
+          log:
+            '''
+            Skeleton of the epfl-dojo website/app with
+            <a href="http://quasar-framework.org/">Quasar Framework</a>.
+            '''
         }
       ]
     }
