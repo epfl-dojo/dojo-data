@@ -20,6 +20,7 @@
           type: trainee
           desc: ""
           kick: "Moar Git"
+          img: "https://source.unsplash.com/PvdUmBGqtk4/350x150"
           log:
             '''
             <a href="http://www.github.com">Github</a> usage with concrete use
@@ -33,6 +34,7 @@
           type: advanced
           desc: ""
           kick: "Tests use case"
+          img: "https://source.unsplash.com/uObHpgW41-w/350x150"
           log:
             '''
             Implementation of tests (karma, mocha, selenium, phantom) and CI
@@ -50,6 +52,7 @@
           type: trainee
           desc: ""
           kick: "Demo"
+          img: "https://source.unsplash.com/uyth4HSgChM/350x150"
           log:
             '''
             <a href="https://www.influxdata.com/">InfluxDB</a> and
@@ -60,6 +63,7 @@
           type: advanced
           desc: ""
           kick: "Continuous integration"
+          img: "https://source.unsplash.com/xnqVGsbXgV4/350x150"
           log:
             '''
             Work on the continuous integration of <a href="http://gitlab.epfl.ch">gitlab@EPFL</a>
@@ -77,6 +81,7 @@
           type: trainee
           desc: ""
           kick: "EPFL dojo website"
+          img: "https://source.unsplash.com/HnUHOBuJ7s4/350x150"
           log:
             '''
             Discovery of the <a href="http://quasar-framework.org/">Quasar Framework</a>, quick-start.
@@ -86,10 +91,36 @@
           type: advanced
           desc: ""
           kick: "EPFL dojo website"
+          img: "https://source.unsplash.com/gWDPk5KYLc4/350x150"
           log:
             '''
             Skeleton of the epfl-dojo website/app with
             <a href="http://quasar-framework.org/">Quasar Framework</a>.
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-03-10
+      dojoid: 10
+      types:
+      [
+        {
+          type: trainee
+          desc: "A définir selon trello, de bonnes chances de continuer dojo-app"
+          kick: ""
+          img: "https://source.unsplash.com/TmqLWNY72rU/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc: "A définir selon trello, de bonnes chances de continuer dojo-app"
+          kick: ""
+          img: "https://source.unsplash.com/if2coegqwZU/350x150"
+          log:
+            '''
             '''
         }
       ]
