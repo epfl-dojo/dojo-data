@@ -108,7 +108,7 @@
         {
           type: trainee
           desc: "A définir selon trello, de bonnes chances de continuer dojo-app"
-          kick: ""
+          kick: "dojo-app ?"
           img: "https://source.unsplash.com/TmqLWNY72rU/350x150"
           log:
             '''
@@ -117,8 +117,58 @@
         {
           type: advanced
           desc: "A définir selon trello, de bonnes chances de continuer dojo-app"
-          kick: ""
+          kick: "dojo-app ?"
           img: "https://source.unsplash.com/if2coegqwZU/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-03-17
+      dojoid: 11
+      types:
+      [
+        {
+          type: trainee
+          desc: ""
+          kick: "dojo-app ?"
+          img: "https://source.unsplash.com/fILnwtJfYAE/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc: ""
+          kick: "dojo-app ?"
+          img: "https://source.unsplash.com/idg266jlib4/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-03-24
+      dojoid: 12
+      types:
+      [
+        {
+          type: trainee
+          desc: "Olivier bosse depuis pas mal de temps sur des logiciels 3D, en particulier Blender (https://www.blender.org/). Certain l'avait déjà rencontré lors d'un dojo l'année passée. Il est également l'organisateur des meetups 3D Thursday (https://www.meetup.com/Lausanne-3D-Thursday/) dont le prochain sera destiné à la photogrammétrie à l'aide de drones (16 mars -> http://www.kopilot.ch/blender-meetup-aerial-photogrammetry/). Vous pouvez visiter d'autre de ses projets sur https://www.olivieramrein.com/"
+          kick: "Présentation de Blender et création (modélisation) d'un bonhomme (avatar) dojo"
+          img: "https://source.unsplash.com/XJXWbfSo2f0/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc: "Olivier propose de voir pour la création automatique d'avatars suivant le prénom de la personne; créer un set de corps, de têtes, d'yeux, bouche, accessoires et générer (en Python) un avatar (welcome dojo-avatar-family). Une sorte de mix entre https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu), https://robohash.org/ et https://www.androidify.com, à la sauce epfl-dojo."
+          kick: "Création automatique d'avatars"
+          img: "https://source.unsplash.com/xekxE_VR0Ec/350x150"
           log:
             '''
             '''
