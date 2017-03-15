@@ -107,20 +107,27 @@
       [
         {
           type: trainee
-          desc: "A définir selon trello, de bonnes chances de continuer dojo-app"
-          kick: "dojo-app ?"
+          kick: "dojo-app"
+          desc: "Improvement work on dojo-app"
           img: "https://source.unsplash.com/TmqLWNY72rU/350x150"
           log:
             '''
+            We tried to recover <a href="https://github.com/epfl-dojo/dojo-app/projects/1">ideas</a>
+            from the github project board. It was difficult to set up the connexion to the GH API
+            because of the token.
             '''
         }
         {
           type: advanced
-          desc: "A définir selon trello, de bonnes chances de continuer dojo-app"
-          kick: "dojo-app ?"
+          kick: "PERL 6"
+          desc: "As voted, the subject is PERL6"
           img: "https://source.unsplash.com/if2coegqwZU/350x150"
           log:
             '''
+            We've learn how to use PERL6 to ping a list of IPs retrieved from consul-cli.
+            PERL6 allows async commands, so we've done parralel ping.
+            The <a href="https://github.com/epfl-dojo/perl6-ping-consul">code of the day</a> and this
+            <a href="https://perl6advent.wordpress.com/2013/12/14/asynchronous-programming-promises-and-channels/">Advent calendar</a> which help us a lot.
             '''
         }
       ]
@@ -157,7 +164,12 @@
       [
         {
           type: trainee
-          desc: "Olivier bosse depuis pas mal de temps sur des logiciels 3D, en particulier Blender (https://www.blender.org/). Certain l'avait déjà rencontré lors d'un dojo l'année passée. Il est également l'organisateur des meetups 3D Thursday (https://www.meetup.com/Lausanne-3D-Thursday/) dont le prochain sera destiné à la photogrammétrie à l'aide de drones (16 mars -> http://www.kopilot.ch/blender-meetup-aerial-photogrammetry/). Vous pouvez visiter d'autre de ses projets sur https://www.olivieramrein.com/"
+          desc:
+            '''
+            Olivier bosse depuis pas mal de temps sur des logiciels 3D, en particulier <a href="https://www.blender.org/">Blender</a>.
+            Certain l'avait déjà rencontré lors d'un dojo l'année passée. Il est également l'organisateur des meetups <a href="https://www.meetup.com/Lausanne-3D-Thursday/">3D Thursday</a> dont le prochain sera destiné à la photogrammétrie à l'aide de drones (16 mars -> <a href="http://www.kopilot.ch/blender-meetup-aerial-photogrammetry">http://www.kopilot.ch/blender-meetup-aerial-photogrammetry/</a>).
+            Vous pouvez visiter d'autre de ses projets sur <a href="https://www.olivieramrein.com/">olivieramrein.com</a>.
+            '''
           kick: "Présentation de Blender et création (modélisation) d'un bonhomme (avatar) dojo"
           img: "https://source.unsplash.com/XJXWbfSo2f0/350x150"
           log:
@@ -166,9 +178,37 @@
         }
         {
           type: advanced
-          desc: "Olivier propose de voir pour la création automatique d'avatars suivant le prénom de la personne; créer un set de corps, de têtes, d'yeux, bouche, accessoires et générer (en Python) un avatar (welcome dojo-avatar-family). Une sorte de mix entre https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu), https://robohash.org/ et https://www.androidify.com, à la sauce epfl-dojo."
+          desc:
+            '''
+            Olivier propose de voir pour la création automatique d'avatars suivant le prénom de la personne; créer un set de corps, de têtes, d'yeux, bouche, accessoires et générer (en Python) un avatar (welcome dojo-avatar-family). Une sorte de mix entre <a href="https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)">Cadavre Exquis</a>, <a href="https://robohash.org/">RoboHash</a> et <a href="https://www.androidify.com">Androidify</a>, à la sauce epfl-dojo.
+            '''
           kick: "Création automatique d'avatars"
           img: "https://source.unsplash.com/xekxE_VR0Ec/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-03-31
+      dojoid: 13
+      types:
+      [
+        {
+          type: trainee
+          desc: ""
+          kick: "TBD"
+          img: "https://source.unsplash.com/OaSXdU03HIU/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc: ""
+          kick: "TBD"
+          img: "https://source.unsplash.com/cnOlhGQY-SI/350x150"
           log:
             '''
             '''
