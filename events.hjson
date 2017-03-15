@@ -139,8 +139,11 @@
       [
         {
           type: trainee
-          desc: ""
-          kick: "dojo-app ?"
+          desc:
+            '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our trello</a>
+            '''
+          kick: "dojo-app / dojo-mario / autre ?"
           img: "https://source.unsplash.com/fILnwtJfYAE/350x150"
           log:
             '''
@@ -148,8 +151,11 @@
         }
         {
           type: advanced
-          desc: ""
-          kick: "dojo-app ?"
+          desc:
+            '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our trello</a>
+            '''
+          kick: "dojo-app / coreos telegram-bot / gihub hook / travis / github api topics"
           img: "https://source.unsplash.com/idg266jlib4/350x150"
           log:
             '''
