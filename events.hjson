@@ -139,26 +139,24 @@
       [
         {
           type: trainee
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our trello</a>
-            '''
-          kick: "dojo-app / dojo-mario / autre ?"
+          desc:""
+          kick: "dojo-app"
           img: "https://source.unsplash.com/fILnwtJfYAE/350x150"
           log:
             '''
+            We tried to retrieve cards from this <a href="https://github.com/epfl-dojo/dojo-app/projects/1">project</a> board.
+            Our test app is avalaible on <a href="https://github.com/epfl-dojo/dojo-ideas">dojo-ideas</a>.
             '''
         }
         {
           type: advanced
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our trello</a>
-            '''
-          kick: "dojo-app / coreos telegram-bot / gihub hook / travis / github api topics"
+          desc: ""
+          kick: "GitHub API topics"
           img: "https://source.unsplash.com/idg266jlib4/350x150"
           log:
             '''
+            We've been able to fetch JSON data containing the GitHub <a href="https://github.com/search?utf8=%E2%9C%93&q=topic%3Aepfl">list of repo</a> tagged with the topic "EPFL".
+            The result is now listed in the <a href="https://github.com/epfl-dojo/dojo-app">dojo-app</a>.
             '''
         }
       ]
@@ -203,7 +201,10 @@
       [
         {
           type: trainee
-          desc: ""
+          desc:
+            '''
+              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
           kick: "TBD"
           img: "https://source.unsplash.com/OaSXdU03HIU/350x150"
           log:
@@ -212,7 +213,10 @@
         }
         {
           type: advanced
-          desc: ""
+          desc:
+          '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+          '''
           kick: "TBD"
           img: "https://source.unsplash.com/cnOlhGQY-SI/350x150"
           log:
