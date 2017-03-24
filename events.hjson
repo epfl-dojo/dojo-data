@@ -174,10 +174,15 @@
             Certain l'avait déjà rencontré lors d'un dojo l'année passée. Il est également l'organisateur des meetups <a href="https://www.meetup.com/Lausanne-3D-Thursday/">3D Thursday</a> dont le prochain sera destiné à la photogrammétrie à l'aide de drones (16 mars -> <a href="http://www.kopilot.ch/blender-meetup-aerial-photogrammetry">http://www.kopilot.ch/blender-meetup-aerial-photogrammetry/</a>).
             Vous pouvez visiter d'autre de ses projets sur <a href="https://www.olivieramrein.com/">olivieramrein.com</a>.
             '''
-          kick: "Présentation de Blender et création (modélisation) d'un bonhomme (avatar) dojo"
+          kick: "Présentation de Blender"
           img: "https://source.unsplash.com/XJXWbfSo2f0/350x150"
           log:
             '''
+            Prise en main de Blender et l'utilsiation basique, par exemple :
+              * Utilisation du workspace : rotation, zoom, déplacement
+              * Manipulation de transformation d'objet : déplacement, agrandissement, ...
+              * Modes : Object, Sculpt & Edit
+              * Viewport shading : Rendered, Solid & Wireframe
             '''
         }
         {
@@ -190,6 +195,7 @@
           img: "https://source.unsplash.com/xekxE_VR0Ec/350x150"
           log:
             '''
+            Présentation du scripting python dans Blender et démonstration de mix d'objets sur les bonhommes `dojo`. Création d'éléments à mixer.
             '''
         }
       ]
