@@ -211,10 +211,13 @@
             '''
               Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
             '''
-          kick: "TBD"
+          kick: "Déplacement d'un carré dans une fenêtre en java avec swing"
           img: "https://source.unsplash.com/OaSXdU03HIU/350x150"
           log:
             '''
+            Déplacement d'un carré grâce aux flèches directionnelles. Empêcher le carré de dépasser les bords de la fenêtre. 
+            Avoir des coordonnées absolues afin que celles du carré correspondent à celle de la fenêtre.
+            Calculer la taille du carré par rapport à l'origine du carré.
             '''
         }
         {
