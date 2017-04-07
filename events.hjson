@@ -207,7 +207,7 @@
       [
         {
           type: trainee
-          desc: ''
+          desc: ""
           kick: "Déplacement d'un carré dans une fenêtre en java avec swing"
           img: "https://source.unsplash.com/OaSXdU03HIU/350x150"
           log:
@@ -221,7 +221,7 @@
         }
         {
           type: advanced
-          desc: ''
+          desc: ""
           kick: "Propagation d'alertes grafana dans Telegram"
           img: "https://source.unsplash.com/cnOlhGQY-SI/350x150"
           log:
@@ -240,7 +240,7 @@
       [
         {
           type: trainee
-          desc: ''
+          desc: ""
           kick: "Tequila login form reviewd in HTML5"
           img: "https://source.unsplash.com/3Pwm3T2lekM/350x150"
           log:
@@ -252,7 +252,7 @@
         }
         {
           type: advanced
-          desc: ''
+          desc: ""
           kick: "A telegram bot which send CoreOs updates"
           img: "https://source.unsplash.com/HzEb3ZRtV88/350x150"
           log:
