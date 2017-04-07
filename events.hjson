@@ -207,30 +207,28 @@
       [
         {
           type: trainee
-          desc:
-            '''
-              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
+          desc: ''
           kick: "Déplacement d'un carré dans une fenêtre en java avec swing"
           img: "https://source.unsplash.com/OaSXdU03HIU/350x150"
           log:
             '''
-            Déplacement d'un carré grâce aux flèches directionnelles. Empêcher le carré de dépasser les bords de la fenêtre. 
-            Avoir des coordonnées absolues afin que celles du carré correspondent à celle de la fenêtre.
+            Déplacement d'un carré grâce aux flèches directionnelles. Empêcher
+            le carré de dépasser les bords de la fenêtre.
+            Avoir des coordonnées absolues afin que celles du carré
+            correspondent à celle de la fenêtre.
             Calculer la taille du carré par rapport à l'origine du carré.
             '''
         }
         {
           type: advanced
-          desc:
-          '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-          '''
+          desc: ''
           kick: "Propagation d'alertes grafana dans Telegram"
           img: "https://source.unsplash.com/cnOlhGQY-SI/350x150"
           log:
             '''
-            Création d'un bot telegram en go envoyant un message en cas d'alerte grafana, dashboard de metrique. Programmation autour d'un flux de donnée basée sur des goroutines et des channels. 
+            Création d'un bot telegram en go envoyant un message en cas d'alerte
+            grafana, dashboard de metrique. Programmation autour d'un flux de
+            donnée basée sur des goroutines et des channels.
             '''
         }
       ]
@@ -242,12 +240,45 @@
       [
         {
           type: trainee
+          desc: ''
+          kick: "Tequila login form reviewd in HTML5"
+          img: "https://source.unsplash.com/3Pwm3T2lekM/350x150"
+          log:
+            '''
+            The tequila form is old (probably as old as EPFL) and this
+            <a href="https://github.com/epfl-dojo/HTML5-tequila">repo</a> is  an
+            attempt to recreate it with HTML and flexbox.
+            '''
+        }
+        {
+          type: advanced
+          desc: ''
+          kick: "A telegram bot which send CoreOs updates"
+          img: "https://source.unsplash.com/HzEb3ZRtV88/350x150"
+          log:
+            '''
+            Draft of a Telegram bot wich use
+            <a href="https://coreos.com/releases/releases.json">https://coreos.com/releases/releases.json</a> as data.
+            The aim is to create a bot which can notify user when new
+            CoreOS release are out. GitHub repo:
+            <a href="https://github.com/epfl-dojo/telegram-coreos-update">https://github.com/epfl-dojo/telegram-coreos-update</a>
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-04-14
+      dojoid: 15
+      types:
+      [
+        {
+          type: trainee
           desc:
             '''
               Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
             '''
           kick: "TBD"
-          img: "https://source.unsplash.com/3Pwm3T2lekM/350x150"
+          img: "https://source.unsplash.com/bxdzLftMitg/350x150"
           log:
             '''
             '''
@@ -259,7 +290,38 @@
             Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
           '''
           kick: "TBD"
-          img: "https://source.unsplash.com/HzEb3ZRtV88/350x150"
+          img: "https://source.unsplash.com/27GKN2BUcxk/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-04-21
+      dojoid: 16
+      types:
+      [
+        {
+          type: trainee
+          desc:
+            '''
+              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/2VBN4TBLAZo/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc:
+          '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+          '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/1OOAIFJ0aXg/350x150"
           log:
             '''
             '''
