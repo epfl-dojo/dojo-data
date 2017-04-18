@@ -241,7 +241,7 @@
         {
           type: trainee
           desc: ""
-          kick: "Tequila login form reviewd in HTML5"
+          kick: "Tequila login form reviewed in HTML5"
           img: "https://source.unsplash.com/3Pwm3T2lekM/350x150"
           log:
             '''
@@ -267,7 +267,7 @@
       ]
     }
     {
-      date: 2017-04-14
+      date: 2017-04-21
       dojoid: 15
       types:
       [
@@ -275,9 +275,9 @@
           type: trainee
           desc:
             '''
-              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+              POC to retrieve person's info from EPFL LDAP from an Ajax call and save them in a DB.
             '''
-          kick: "TBD"
+          kick: "PHP + AJAX/jQuery + EPFL LDAP"
           img: "https://source.unsplash.com/bxdzLftMitg/350x150"
           log:
             '''
@@ -298,7 +298,7 @@
       ]
     }
     {
-      date: 2017-04-21
+      date: 2017-04-28
       dojoid: 16
       types:
       [
