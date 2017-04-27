@@ -275,24 +275,25 @@
           type: trainee
           desc:
             '''
-              POC to retrieve person's info from EPFL LDAP from an Ajax call and save them in a DB.
+              Basic PHP page with a form and a connexion to a Mysql DB
             '''
-          kick: "PHP + AJAX/jQuery + EPFL LDAP"
+          kick: "PHP + MySQL"
           img: "https://source.unsplash.com/bxdzLftMitg/350x150"
           log:
             '''
+              Basic PHP page with a form and a connexion to a Mysql DB
             '''
         }
         {
           type: advanced
           desc:
-          '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-          '''
-          kick: "TBD"
+            '''
+            '''
+          kick: "PHP + MySQL (continued)"
           img: "https://source.unsplash.com/27GKN2BUcxk/350x150"
           log:
             '''
+              Basic PHP page with a form and a connexion to a Mysql DB
             '''
         }
       ]
@@ -322,6 +323,68 @@
           '''
           kick: "TBD"
           img: "https://source.unsplash.com/1OOAIFJ0aXg/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-05-05
+      dojoid: 17
+      types:
+      [
+        {
+          type: trainee
+          desc:
+            '''
+              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/in7_58C6GBc/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc:
+          '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+          '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/wNCgilxK_yw/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-05-12
+      dojoid: 18
+      types:
+      [
+        {
+          type: trainee
+          desc:
+            '''
+              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/K9QHL52rE2k/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc:
+          '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+          '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/0AgcThF72Aw/350x150"
           log:
             '''
             '''
