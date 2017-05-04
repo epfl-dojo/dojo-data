@@ -307,24 +307,26 @@
           type: trainee
           desc:
             '''
-              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
             '''
-          kick: "TBD"
+          kick: "FBI Most Wanted"
           img: "https://source.unsplash.com/2VBN4TBLAZo/350x150"
           log:
             '''
+            A premise of a Telegram bot written in Python to <em>play</em> with
+            FBI Most Wanted people list. Code's <a href="https://github.com/epfl-dojo/FMW">here</a>.
             '''
         }
         {
           type: advanced
           desc:
           '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
           '''
-          kick: "TBD"
+          kick: "@CoreOSbot"
           img: "https://source.unsplash.com/1OOAIFJ0aXg/350x150"
           log:
             '''
+            A telegram bot which send CoreOs updates - refactoring the right style.
+            Code's <a href="https://github.com/epfl-dojo/telegram-coreos-update">here</a>.
             '''
         }
       ]
