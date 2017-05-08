@@ -313,7 +313,7 @@
           log:
             '''
             A premise of a Telegram bot written in Python to <em>play</em> with
-            FBI Most Wanted people list. Code's <a href="https://github.com/epfl-dojo/FMW">here</a>.
+            FBI Most Wanted people list. Code's <a href="https://github.com/epfl-dojo/FMW">here (FMW)</a>.
             '''
         }
         {
@@ -326,7 +326,7 @@
           log:
             '''
             A telegram bot which send CoreOs updates - refactoring the right style.
-            Code's <a href="https://github.com/epfl-dojo/telegram-coreos-update">here</a>.
+            Code's <a href="https://github.com/epfl-dojo/telegram-coreos-update">here (telegram-coreos-update)</a>.
             '''
         }
       ]
@@ -340,24 +340,29 @@
           type: trainee
           desc:
             '''
-              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
             '''
-          kick: "TBD"
+          kick: "FBI Most Wanted"
           img: "https://source.unsplash.com/in7_58C6GBc/350x150"
           log:
             '''
+              Implementation of the bot in python, using BeautifulSoup to call the
+              <a href="https://www.fbi.gov/wanted/cyber">https://www.fbi.gov/wanted/cyber</a> page.
+              Code's <a href="https://github.com/epfl-dojo/FMW">here (FMW)</a>.
             '''
         }
         {
           type: advanced
           desc:
           '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
           '''
-          kick: "TBD"
+          kick: "Go Vote !"
           img: "https://source.unsplash.com/wNCgilxK_yw/350x150"
           log:
             '''
+            A golang bot wich take a <a href="https://api.trello.com/1/lists/58c1b0c5a2c599346fd571ac?fields=name&cards=open&card_fields=name,url">a public trello's json cards list</a>
+            to setup a vote bot in Telegram.
+            Code's <a href="https://github.com/epfl-dojo/votbot">here (votbot)</a>.
+
             '''
         }
       ]
@@ -387,6 +392,68 @@
           '''
           kick: "TBD"
           img: "https://source.unsplash.com/0AgcThF72Aw/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-05-19
+      dojoid: 19
+      types:
+      [
+        {
+          type: trainee
+          desc:
+            '''
+              Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/L4xwVYQ08-4/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc:
+          '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+          '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/Se7fVNa9IXc/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-05-26
+      dojoid: 20
+      types:
+      [
+        {
+          type: trainee
+          desc:
+          '''
+          Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+          '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/Lxz__X7NAbA/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc:
+          '''
+          Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+          '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/RU0KvKLjRSg/350x150"
           log:
             '''
             '''
