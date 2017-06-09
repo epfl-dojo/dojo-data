@@ -408,10 +408,11 @@
             '''
             Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
             '''
-          kick: "TBD"
+          kick: "FMW - FBI Most Wanted"
           img: "https://source.unsplash.com/L4xwVYQ08-4/350x150"
           log:
             '''
+            Code's <a href="https://github.com/epfl-dojo/FMW">here (FMW)</a>.
             '''
         }
         {
@@ -420,16 +421,17 @@
             '''
             Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
             '''
-          kick: "TBD"
+          kick: "@VotBot"
           img: "https://source.unsplash.com/Se7fVNa9IXc/350x150"
           log:
             '''
+            <a href="https://github.com/epfl-dojo/votbot">VotBot</a> continued with a way to close the poll.
             '''
         }
       ]
     }
     {
-      date: 2017-05-26
+      date: 2017-06-02
       dojoid: 20
       types:
       [
@@ -453,6 +455,101 @@
             '''
           kick: "TBD"
           img: "https://source.unsplash.com/RU0KvKLjRSg/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+
+    {
+      date: 2017-06-09
+      dojoid: 21
+      types:
+      [
+        {
+          type: trainee
+          desc:
+            '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/wVMBn5sPQt0/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc:
+            '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/WTjhbQo5CnY/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-06-16
+      dojoid: 22
+      types:
+      [
+        {
+          type: trainee
+          desc:
+            '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/ROC8ipXbSfM/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc:
+            '''
+            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
+            '''
+          kick: "TBD"
+          img: "https://source.unsplash.com/OCD_7D8pUxg/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-06-23
+      dojoid: 23
+      types:
+      [
+        {
+          type: trainee
+          desc:
+            '''
+            Visite Fablab / FIXME
+            '''
+          kick: "Visite Fablab / FIXME"
+          img: "https://source.unsplash.com/LSJI4KPqwBk/350x150"
+          log:
+            '''
+            '''
+          hour: "11:00 - 18:00"
+        }
+        {
+          type: advanced
+          desc:
+            '''
+            Visite Fablab / FIXME
+            '''
+          kick: "Visite Fablab / FIXME"
+          img: "https://source.unsplash.com/uPXs5Vx5bIg/350x150"
           log:
             '''
             '''
