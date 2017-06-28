@@ -404,10 +404,7 @@
       [
         {
           type: trainee
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
+          desc: ""
           kick: "FMW - FBI Most Wanted"
           img: "https://source.unsplash.com/L4xwVYQ08-4/350x150"
           log:
@@ -417,10 +414,7 @@
         }
         {
           type: advanced
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
+          desc: ""
           kick: "@VotBot"
           img: "https://source.unsplash.com/Se7fVNa9IXc/350x150"
           log:
@@ -437,26 +431,22 @@
       [
         {
           type: trainee
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
-          kick: "TBD"
+          desc: ""
+          kick: "FMW - FBI Most Wanted"
           img: "https://source.unsplash.com/Lxz__X7NAbA/350x150"
           log:
             '''
+            Code's <a href="https://github.com/epfl-dojo/FMW">here (FMW)</a>.
             '''
         }
         {
           type: advanced
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
-          kick: "TBD"
+          desc: ""
+          kick: "Nemesis"
           img: "https://source.unsplash.com/RU0KvKLjRSg/350x150"
           log:
             '''
+            Kubernetes + Calico
             '''
         }
       ]
@@ -469,26 +459,22 @@
       [
         {
           type: trainee
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
-          kick: "TBD"
+          desc: ""
+          kick: "FMW - FBI Most Wanted"
           img: "https://source.unsplash.com/wVMBn5sPQt0/350x150"
           log:
             '''
+            Code's <a href="https://github.com/epfl-dojo/FMW">here (FMW)</a>.
             '''
         }
         {
           type: advanced
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
-          kick: "TBD"
+          desc: ""
+          kick: "Nemesis"
           img: "https://source.unsplash.com/WTjhbQo5CnY/350x150"
           log:
             '''
+            Test container with cats: <a href="https://github.com/epfl-sti/cluster.k8s.testserver">cluster.k8s.testserver</a>
             '''
         }
       ]
@@ -500,26 +486,22 @@
       [
         {
           type: trainee
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
-          kick: "TBD"
+          desc: ""
+          kick: "FMW - FBI Most Wanted"
           img: "https://source.unsplash.com/ROC8ipXbSfM/350x150"
           log:
             '''
+            Code's <a href="https://github.com/epfl-dojo/FMW">here (FMW)</a>.
             '''
         }
         {
           type: advanced
-          desc:
-            '''
-            Please propose subject on <a href="https://trello.com/b/JRz6oOC3">our Trello</a> board.
-            '''
-          kick: "TBD"
-          img: "https://source.unsplash.com/OCD_7D8pUxg/350x150"
+          desc: ""
+          kick: "@VotBot"
+          img: "https://source.unsplash.com/Se7fVNa9IXc/350x150"
           log:
             '''
+            <a href="https://github.com/epfl-dojo/votbot">VotBot</a> poll can be closed!
             '''
         }
       ]
@@ -550,6 +532,32 @@
             '''
           kick: "Visite Fablab / FIXME"
           img: "https://source.unsplash.com/uPXs5Vx5bIg/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-06-29
+      dojoid: 24
+      types:
+      [
+        {
+          type: trainee
+          desc: ""
+          kick: "OrangePi ?"
+          img: "https://source.unsplash.com/g7CAHl8kc24/350x150"
+          log:
+            '''
+            Code's <a href="https://github.com/epfl-dojo/porangebox/">here (porangebox)</a>.
+            '''
+        }
+        {
+          type: advanced
+          desc: ""
+          kick: "TBD"
+          img: "https://source.unsplash.com/_Yz_vyvV72A/350x150"
           log:
             '''
             '''
