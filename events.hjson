@@ -521,6 +521,15 @@
           img: "https://source.unsplash.com/LSJI4KPqwBk/350x150"
           log:
             '''
+            Quelques info sur la sortie dojo au Fablab et à FIXME.
+            Après le repas à l'Il Bacio, nous nous sommes rendu au chemin du Closel 3 à Renens.
+            Christian nous a fait une super présentation des espaces, autant pour la partie Fablab avec ses découpeuses laser et imprimantes 3D que pour la partie FIXME, atelier électronique et ses aspirations sociales. Bien que différents sous certains aspects, il a également expliqué pourquoi la cohabitation entre les deux associations était profitable et fonctionnait si bien.
+            On a également profité pour aller faire un tour chez "makerspace", sorte de grand atelier mécanique en accès libre mais néanmoins payant et nécessitant de suivre des formations.
+            Après ces présentations, nous avons commencé les choses sérieuses; d'un côté, travail sur le software de la "porangebox", une pirate box faite avec une OrangePi.
+            De l'autre, travail sur les fichiers de la découpeuse laser pour ajuster le boîtier.
+            Au final, le boîtier rend plutôt bien, autant en plexiglas qu'avec du MDF.
+            Côté logiciel, il est encore nécessaire de passer un peu de temps pour que tout fonctionne comme espéré (peut être une session au dojo de vendredi ?). Toute la doc se trouve(ra) sur https://github.com/epfl-dojo/porangebox. Il est également possible de trouver plus d'éléments concernant cette sortie avec le hash tag #epfldojo.
+            Au final, je crois que cette sortie a été un succès, autant pour l'aspect technique que social - à voir avec vous lors du meta-dojo, mais agender ces sorties une à deux fois par année ne me parait pas être une mauvaise idée...
             '''
           hour: "11:00 - 18:00"
         }
@@ -534,6 +543,15 @@
           img: "https://source.unsplash.com/uPXs5Vx5bIg/350x150"
           log:
             '''
+            Quelques info sur la sortie dojo au Fablab et à FIXME.
+            Après le repas à l'Il Bacio, nous nous sommes rendu au chemin du Closel 3 à Renens.
+            Christian nous a fait une super présentation des espaces, autant pour la partie Fablab avec ses découpeuses laser et imprimantes 3D que pour la partie FIXME, atelier électronique et ses aspirations sociales. Bien que différents sous certains aspects, il a également expliqué pourquoi la cohabitation entre les deux associations était profitable et fonctionnait si bien.
+            On a également profité pour aller faire un tour chez "makerspace", sorte de grand atelier mécanique en accès libre mais néanmoins payant et nécessitant de suivre des formations.
+            Après ces présentations, nous avons commencé les choses sérieuses; d'un côté, travail sur le software de la "porangebox", une pirate box faite avec une OrangePi.
+            De l'autre, travail sur les fichiers de la découpeuse laser pour ajuster le boîtier.
+            Au final, le boîtier rend plutôt bien, autant en plexiglas qu'avec du MDF.
+            Côté logiciel, il est encore nécessaire de passer un peu de temps pour que tout fonctionne comme espéré (peut être une session au dojo de vendredi ?). Toute la doc se trouve(ra) sur https://github.com/epfl-dojo/porangebox. Il est également possible de trouver plus d'éléments concernant cette sortie avec le hash tag #epfldojo.
+            Au final, je crois que cette sortie a été un succès, autant pour l'aspect technique que social - à voir avec vous lors du meta-dojo, mais agender ces sorties une à deux fois par année ne me parait pas être une mauvaise idée...
             '''
         }
       ]
@@ -546,7 +564,7 @@
         {
           type: trainee
           desc: ""
-          kick: "OrangePi ?"
+          kick: "porangebox"
           img: "https://source.unsplash.com/g7CAHl8kc24/350x150"
           log:
             '''
@@ -556,8 +574,59 @@
         {
           type: advanced
           desc: ""
-          kick: "TBD"
+          kick: "porangebox"
           img: "https://source.unsplash.com/_Yz_vyvV72A/350x150"
+          log:
+            '''
+            Code's <a href="https://github.com/epfl-dojo/porangebox/">here (porangebox)</a>.
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-07-07
+      dojoid: 25
+      types:
+      [
+        {
+          type: trainee
+          desc: ""
+          kick: "TDB"
+          img: "https://source.unsplash.com/OGj-lUI9TBQ/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc: ""
+          kick: "TBD"
+          img: "https://source.unsplash.com/MWFWz4DWwKI/350x150"
+          log:
+            '''
+            '''
+        }
+      ]
+    }
+    {
+      date: 2017-07-14
+      dojoid: 26
+      types:
+      [
+        {
+          type: trainee
+          desc: ""
+          kick: "TDB"
+          img: "https://source.unsplash.com/lHGeqh3XhRY/350x150"
+          log:
+            '''
+            '''
+        }
+        {
+          type: advanced
+          desc: ""
+          kick: "TBD"
+          img: "https://source.unsplash.com/hWCxtv3q9iw/350x150"
           log:
             '''
             '''
