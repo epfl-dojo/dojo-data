@@ -512,23 +512,24 @@
       types:
       [
         {
-          type: trainee
+          type: XXX
           desc:
             '''
-            Visite Fablab / FIXME
+            Quelques info sur la sortie dojo au <a href="http://www.fablab-renens.ch/">Fablab</a> et à <a href="https://fixme.ch/">FIXME</a>.
             '''
           kick: "Visite Fablab / FIXME"
           img: "https://source.unsplash.com/LSJI4KPqwBk/350x150"
           log:
             '''
-            Quelques info sur la sortie dojo au Fablab et à FIXME.
             Après le repas à l'Il Bacio, nous nous sommes rendu au chemin du Closel 3 à Renens.
             Christian nous a fait une super présentation des espaces, autant pour la partie Fablab avec ses découpeuses laser et imprimantes 3D que pour la partie FIXME, atelier électronique et ses aspirations sociales. Bien que différents sous certains aspects, il a également expliqué pourquoi la cohabitation entre les deux associations était profitable et fonctionnait si bien.
-            On a également profité pour aller faire un tour chez "makerspace", sorte de grand atelier mécanique en accès libre mais néanmoins payant et nécessitant de suivre des formations.
-            Après ces présentations, nous avons commencé les choses sérieuses; d'un côté, travail sur le software de la "porangebox", une pirate box faite avec une OrangePi.
+            On en a également profité pour aller faire un tour chez "<a href="https://made.univercite.ch/">makerspace</a>", sorte de grand atelier mécanique en accès libre mais néanmoins payant et nécessitant de suivre des formations.
+
+            Après ces présentations, nous avons commencé les choses sérieuses; d'un côté, travail sur le software de la "<a href="https://github.com/epfl-dojo/porangebox">porangebox</a>", une pirate box faite avec une OrangePi.
             De l'autre, travail sur les fichiers de la découpeuse laser pour ajuster le boîtier.
             Au final, le boîtier rend plutôt bien, autant en plexiglas qu'avec du MDF.
-            Côté logiciel, il est encore nécessaire de passer un peu de temps pour que tout fonctionne comme espéré (peut être une session au dojo de vendredi ?). Toute la doc se trouve(ra) sur https://github.com/epfl-dojo/porangebox. Il est également possible de trouver plus d'éléments concernant cette sortie avec le hash tag #epfldojo.
+            Côté logiciel, il est encore nécessaire de passer un peu de temps pour que tout fonctionne comme espéré (peut être une session au dojo de vendredi ?). Toute la doc se trouve(ra) sur https://github.com/epfl-dojo/porangebox. Il est également possible de trouver plus d'éléments concernant cette sortie avec le hash tag <a href="http://bfy.tw/CYfr">#epfldojo</a>.
+
             Au final, je crois que cette sortie a été un succès, autant pour l'aspect technique que social - à voir avec vous lors du meta-dojo, mais agender ces sorties une à deux fois par année ne me parait pas être une mauvaise idée...
             '''
           hour: "11:00 - 18:00"
